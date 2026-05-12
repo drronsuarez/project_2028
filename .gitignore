@@ -4,4 +4,6 @@
 !.dev.vars.example
 .env*
 !.env.example
-/.vs
+
+# Visual Studio
+.vs
